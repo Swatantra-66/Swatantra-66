@@ -1,13 +1,15 @@
- # 👋 Hey, I'm Swatantra Yadav a 2nd year college student.
+ # 👋 Hey, I'm Swatantra Yadav - a 2nd-year college student.
  
-🚀 Blockchain Developement | Web3 Enthusiast | Typescript & Rust Learner  
+🚀 Blockchain Developer | Web3 Enthusiast | TypeScript & Rust Learner  
 💡 I’m passionate about building decentralized applications and exploring new blockchain ecosystems. Currently diving deeper into Solana, contributing to open-source projects, and experimenting with Rust and smart contracts.
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400"/>  <img src="https://private-user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIwNjI5MjksIm5iZiI6MTc1MjA2MjYyOSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTQyMTctYmFmNTJhYTYtZmY3MS00MTJkLTk2MDctZGI4ZmViMTc4NzRiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA5VDEyMDM0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwY2Y2ZmNmM2E1MWZkYzBmZjc3YzdlOGJiOTFiNDc5MGYzMzAyMzViMTI4MWQ4Mzc5ZGNjY2NlZDVhN2Q0ZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SIg9duNITpuIl6aikoublm_FVpJ0koCGBVQ-nDcl1Co">
-
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400"/>
+  <br/><br/>
+  <img src="https://user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif" width="400"/>
+</div>
 
 ---
 
@@ -74,7 +76,7 @@
 ---
 
 ## 🚀 Currently Learning
-`Solana Development` · `Rust` · `Typescript` . `Cryptographic Algorithms` · `DApps`  
+`Solana Development` · `Rust` · `TypeScript` . `Cryptographic Algorithms` · `DApps`  
 
 ## 🤝 Open to Collaborate On
 - Web3 Projects (Ethereum/Solana)

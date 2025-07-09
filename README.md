@@ -1,6 +1,6 @@
- # 👋 Hey, I'm Swatantra Yadav - a 2nd-year college student.
+ # 👋 Hey, I'm Swatantra Yadav : a 2nd-year college student.
  
-🚀 Blockchain Developer | Web3 Enthusiast | TypeScript & Rust Learner  
+🚀 Blockchain Development | Web3 Enthusiast | TypeScript & Rust Learner  
 💡 I’m passionate about building decentralized applications and exploring new blockchain ecosystems. Currently diving deeper into Solana, contributing to open-source projects, and experimenting with Rust and smart contracts.
 
 ---
@@ -55,9 +55,7 @@
 
 ## 📊 GitHub Analytics
 
-![Swatantra GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swatantra-66&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Swatantra-66&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swatantra-66&theme=dark&hide_border=false&layout=compact)
+![Swatantra GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swatantra-66&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![GitHub Streak](https://streak-stats.demolab.com/?user=Swatantra-66&theme=dark&hide_border=false)
 
 ---
 
@@ -85,7 +83,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Swatantra-66&icon=10&color=1)](https://visitcount.itsvg.in)
 
----
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif" width="150"/>
 </div>

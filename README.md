@@ -5,6 +5,10 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+
+---
+
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swatantraar1see) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maverickswatantra@gmail.com)
 
@@ -78,8 +82,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Swatantra-66&icon=10&color=1)](https://visitcount.itsvg.in)
-
----
 
 <img src="https://private-user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIwNjI5MjksIm5iZiI6MTc1MjA2MjYyOSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTQyMTctYmFmNTJhYTYtZmY3MS00MTJkLTk2MDctZGI4ZmViMTc4NzRiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA5VDEyMDM0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwY2Y2ZmNmM2E1MWZkYzBmZjc3YzdlOGJiOTFiNDc5MGYzMzAyMzViMTI4MWQ4Mzc5ZGNjY2NlZDVhN2Q0ZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SIg9duNITpuIl6aikoublm_FVpJ0koCGBVQ-nDcl1Co" width="100">
 

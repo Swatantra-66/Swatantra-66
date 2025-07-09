@@ -13,6 +13,7 @@
 
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swatantraar1see) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maverickswatantra@gmail.com)
+![](https://komarev.com/ghpvc/?username=Swatantra-66&color=green)
 
 ---
 
@@ -89,6 +90,6 @@
 ---
 
 <div align="center">
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVxMjFvcHR1NTZlMGkxa3Rwa2VjZmJ5c2NpcTlucjg1d3A5eTk4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T50ns7JardLJIQdR4T/giphy.gif" width="700" height="200">
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVxMjFvcHR1NTZlMGkxa3Rwa2VjZmJ5c2NpcTlucjg1d3A5eTk4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T50ns7JardLJIQdR4T/giphy.gif">
 </div>
     

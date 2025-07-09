@@ -55,7 +55,7 @@
 
 ## 📊 GitHub Analytics
 
-![Swatantra GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swatantra-66&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![GitHub Streak](https://streak-stats.demolab.com/?user=Swatantra-66&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swatantra-66&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![GitHub Streak](https://streak-stats.demolab.com/?user=Swatantra-66&theme=dark&hide_border=false)
 
 ---
 
@@ -86,4 +86,10 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif" width="150"/>
 </div>
+
+<div align="center">
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVxMjFvcHR1NTZlMGkxa3Rwa2VjZmJ5c2NpcTlucjg1d3A5eTk4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T50ns7JardLJIQdR4T/giphy.gif">
+</div>
+    
+
 

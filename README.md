@@ -6,9 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400"/>
-  <br/><br/>
-  <img src="https://user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="450"/>
 </div>
 
 ---
@@ -86,4 +84,9 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Swatantra-66&icon=10&color=1)](https://visitcount.itsvg.in)
+
+---
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif" width="150"/>
+</div>
 

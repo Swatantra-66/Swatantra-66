@@ -1,6 +1,5 @@
- <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="50"/> # Hey, I'm Swatantra Yadav a 2nd year college student.
-
-
+ # 👋 Hey, I'm Swatantra Yadav a 2nd year college student.
+ 
 🚀 Blockchain Developement | Web3 Enthusiast | Typescript & Rust Learner  
 💡 I’m passionate about building decentralized applications and exploring new blockchain ecosystems. Currently diving deeper into Solana, contributing to open-source projects, and experimenting with Rust and smart contracts.
 

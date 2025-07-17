@@ -82,10 +82,10 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Swatantra-66&icon=10&color=1)](https://visitcount.itsvg.in)
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif" width="150"/>
 </div>
+
 ---
 
 <div align="center">

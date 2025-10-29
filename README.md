@@ -1,7 +1,7 @@
- # 👋 Hey, I'm Swatantra Yadav : a 2nd-year college student.
+ # 👋 Hey, I'm Swatantra Yadav.
  
-🚀 Blockchain Development | Web3 Enthusiast | TypeScript & Rust Learner  
-💡 I’m passionate about building decentralized applications and exploring new blockchain ecosystems. Currently diving deeper into Solana, contributing to open-source projects, and experimenting with Rust and smart contracts.
+🚀 Backend Development | Web3 Enthusiast | Learner   
+💡 I’m passionate about building decentralized applications and exploring new blockchain ecosystems. Currently diving deeper into Solana Backend development and learning golang, contributing to open-source projects, and experimenting with Rust and smart contracts.
 
 ---
 
@@ -40,9 +40,6 @@
 ### 🗃️ Databases & Data Tools
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### 🔧 Dev Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -73,12 +70,12 @@
 ---
 
 ## 🚀 Currently Learning
-`Solana Development` · `Rust` · `TypeScript` . `Cryptographic Algorithms` · `DApps`  
+`Solana Development` · `Backend` · `go` · `TypeScript` . `AI` · `DApps`  
 
 ## 🤝 Open to Collaborate On
 - Web3 Projects (Ethereum/Solana)
 - Hackathons
-- Research-Based Blockchain Projects
+- Research-Based Backend Projects
 
 ---
 

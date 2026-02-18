@@ -1,8 +1,8 @@
  # 👋 Hey, I'm Swatantra Yadav.
  ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
-🚀 Backend Development | Web3 Enthusiast | Learner   
-💡 I’m passionate about building decentralized applications and exploring new blockchain ecosystems. Currently diving deeper into Solana Backend development and learning golang, contributing to open-source projects, and experimenting with Rust and smart contracts.
+🚀 Backend Development | Cloud Architecture | Building & Learning   
+💡 I’m passionate about engineering high-performance backend systems and scalable cloud architectures. Currently specializing in Go (Golang) microservices, designing cloud-native solutions on AWS (Certified), and bridging the gap between Web2 APIs and Web3 protocols..
 
 ---
 

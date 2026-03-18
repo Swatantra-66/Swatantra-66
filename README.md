@@ -1,85 +1,105 @@
- # 👋 Hey, I'm Swatantra Yadav.
- ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
- 
-🚀 Backend Development | Cloud Architecture | Building & Learning   
-💡 I’m passionate about engineering high-performance backend systems and scalable cloud architectures. Currently specializing in Go (Golang) microservices, designing cloud-native solutions on AWS (Certified), and bridging the gap between Web2 APIs and Web3 protocols..
-
----
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="450"/>
+
+# 👋 Hi, I'm **Swatantra Yadav**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Cloud+Architect+%7C+Web3+Builder;Go+Microservices+%7C+AWS+Certified+%7C+Distributed+Systems;Building+scalable+APIs+for+real-world+impact" alt="Typing intro" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swatantra%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swatantraar1see)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://swatantra-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-maverickswatantra%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maverickswatantra@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Swatantra-66&style=for-the-badge&color=22c55e)
+
 </div>
 
 ---
 
-## 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swatantraar1see) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maverickswatantra@gmail.com)
-![](https://komarev.com/ghpvc/?username=Swatantra-66&color=green)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?logo=vercel&logoColor=white)](https://swatantra-portfolio.vercel.app/)
+## 🚀 About Me
+
+I’m a backend-focused engineer passionate about designing systems that are **fast, resilient, and production-ready**.
+
+- 🧠 Building **Go microservices**, REST APIs, and event-driven backends
+- ☁️ Designing cloud-native architecture on **AWS** (Certified)
+- 🗄️ Managing complex relational data, ACID transactions, and scaling PostgreSQL / Supabase
+- 🛠️ Strong focus on system reliability, performance, and developer experience
 
 ---
 
-## 💻 Tech Stack
+## 🎯 Current Focus
 
-### 🌐 Languages & Scripting
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c++&logoColor=white)
-![Go](https://img.shields.io/badge/go-%23007ACC.svg?style=for-the-badge&logo=go&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- Advanced backend design patterns in Go
+- Distributed systems and observability
+- Solana + Ethereum ecosystem tooling
+- TypeScript for full-stack and automation workflows
 
-### ⚙️ Frameworks
-![Gin](https://img.shields.io/badge/gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Gorilla Mux](https://img.shields.io/badge/gorilla%20mux-2C2D72?style=for-the-badge&logo=go&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+---
 
-### 🗃️ Databases & Data Tools
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🧰 Tech Toolbox
+
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend & Frameworks
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gorilla Mux](https://img.shields.io/badge/Gorilla%20Mux-2C2D72?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### Cloud, Databases & Infra
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-### 🔧 Dev Tools & Software
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCODE](https://camo.githubusercontent.com/8056377ae1874efe9fb628d089a0e796e2020ac12e9a0a2d5353bf8f99ab6d02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+### Developer Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swatantra-66&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![GitHub Streak](https://streak-stats.demolab.com/?user=Swatantra-66&theme=dark&hide_border=false)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Swatantra-66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Swatantra-66&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swatantra-66&theme=react-dark&hide_border=true" alt="activity graph" />
+</div>
 
 ---
-
-## 🌱 Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Swatantra-66&theme=react-dark&hide_border=false)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Swatantra-66&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 🚀 Currently Learning
-`Solana Development` · `Backend` · `Go` · `TypeScript` . `AI` · `DApps` · `Cloud` 
 
 ## 🤝 Open to Collaborate On
-- Web3 Projects (Ethereum/Solana)
-- Hackathons
-- Backend Projects
+
+- Web3 products (Ethereum / Solana)
+- High-performance backend systems
+- Hackathons & open-source projects
+
+---
+
+## 📬 Let's Connect
+
+If you’re building in backend, cloud, or Web3, let’s collaborate.
+
+- LinkedIn: [swatantraar1see](https://linkedin.com/in/swatantraar1see)
+- Portfolio: [swatantra-portfolio.vercel.app](https://swatantra-portfolio.vercel.app/)
+- Email: [maverickswatantra@gmail.com](mailto:maverickswatantra@gmail.com)
 
 ---
 
 <div align="center">
  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVxMjFvcHR1NTZlMGkxa3Rwa2VjZmJ5c2NpcTlucjg1d3A5eTk4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T50ns7JardLJIQdR4T/giphy.gif">
 </div>
-    

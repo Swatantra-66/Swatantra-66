@@ -17,10 +17,10 @@
 
 I’m a backend-focused engineer passionate about designing systems that are **fast, resilient, and production-ready**.
 
-- 🧠 Building **Go microservices**, REST APIs, and event-driven backends
-- ☁️ Designing cloud-native architecture on **AWS** (Certified)
-- 🗄️ Managing complex relational data, ACID transactions, and scaling PostgreSQL / Supabase
-- 🛠️ Strong focus on system reliability, performance, and developer experience
+-  Building **Go microservices**, REST APIs, and event-driven backends
+-  Designing cloud-native architecture on **AWS** (Certified)
+-  Managing complex relational data, ACID transactions, and scaling PostgreSQL / Supabase
+-  Strong focus on system reliability, performance, and developer experience
 
 ---
 
@@ -84,8 +84,7 @@ I’m a backend-focused engineer passionate about designing systems that are **f
 
 ## 🤝 Open to Collaborate On
 
-- Web3 products (Ethereum / Solana)
-- High-performance backend systems
+- Performance based backend systems and Database integration
 - Hackathons & open-source projects
 
 ---

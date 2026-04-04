@@ -24,7 +24,8 @@ AR1SEE X S
 he / they
 
 </pre>
-</div><br>
+</div>
+<br><br>
 
 ## ❖ About Me
 

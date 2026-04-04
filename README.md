@@ -11,6 +11,21 @@
 
 </div>
 
+<div align="center">
+<img src="https://files.catbox.moe/r520ti.png" width="450" height="400" align="left"> 
+
+    
+<br><br>
+<pre>
+    
+AR1SEE X S
+ <img src="https://files.catbox.moe/prpbh7.png">
+ 21
+he / they
+
+</pre><br>
+</div>
+
 ---
 
 ## ❖ About Me

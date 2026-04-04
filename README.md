@@ -23,8 +23,8 @@ AR1SEE X S
  21
 he / they
 
-</pre><br>
-</div>
+</pre>
+</div><br>
 
 ## ❖ About Me
 

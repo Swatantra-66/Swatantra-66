@@ -26,8 +26,6 @@ he / they
 </pre><br>
 </div>
 
----
-
 ## ❖ About Me
 
 I’m a backend-focused engineer passionate about designing systems that are **fast, resilient, and production-ready**.

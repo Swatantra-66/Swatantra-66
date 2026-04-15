@@ -12,9 +12,8 @@
 </div>
 
 <div align="center">
-<img src="https://files.catbox.moe/r520ti.png" width="450" height="400" align="left"> 
+<img src="https://files.catbox.moe/r520ti.png" width="450" height="300" align="left" hspace="50"> 
 
-    
 <br><br>
 <pre>
     

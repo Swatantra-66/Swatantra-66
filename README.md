@@ -11,7 +11,7 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://files.catbox.moe/r520ti.png" width="450" height="300" align="left" hspace="50"> 
 
 <br><br>
@@ -24,7 +24,31 @@ he / they
 
 </pre>
 </div>
-<br><br>
+<br><br> -->
+
+<table>
+<tr>
+
+<td width="320" align="center">
+    <img src="https://files.catbox.moe/r520ti.png" width="275">
+</td>
+
+<td width="320" align="center">
+<img src="https://i.postimg.cc/x1tnp2qt/pokemon.gif" width="275" height="300">
+</td>
+
+<td width="220" align="center" valign="middle">
+
+<b>AR1SEE X S</b><br><br>
+
+<img src="https://files.catbox.moe/prpbh7.png" width="105"><br><br>
+
+21<br>
+he / they
+
+</td>
+</tr>
+</table>
 
 ## ❖ About Me
 

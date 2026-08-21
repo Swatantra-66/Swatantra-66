@@ -153,7 +153,7 @@ I’m a backend-focused engineer passionate about designing systems that are **f
 If you’re building in backend, cloud, or Web3, let’s collaborate.
 
 - LinkedIn: [swatantraar1see](https://linkedin.com/in/swatantraar1see)
-- Portfolio: [swatantra-portfolio.vercel.app](https://swatantra-portfolio.vercel.app/)
+- Portfolio: [swatantra-portfolio.vercel.app](https://swatantracodes.in)
 - Email: [maverickswatantra@gmail.com](mailto:maverickswatantra@gmail.com)
 
 ---

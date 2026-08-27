@@ -2,10 +2,10 @@
 
 # Hi, I'm **Swatantra Yadav**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Cloud+Architect+%7C+Web3+Builder;Go+Microservices+%7C+AWS+Certified+%7C+Distributed+Systems;Building+scalable+APIs+for+real-world+impact" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Cloud+Architect;Go+Microservices+%7C+AWS+Certified+%7C+Distributed+Systems;Building+scalable+APIs" alt="Typing intro" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swatantra%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swatantraar1see)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://swatantra-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://swatantracodes.in)
 [![Email](https://img.shields.io/badge/Email-maverickswatantra%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maverickswatantra@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Swatantra-66&style=for-the-badge&color=22c55e)
 
@@ -44,7 +44,6 @@ he / they
 <img src="https://files.catbox.moe/prpbh7.png" width="105"><br><br>
 
 21<br>
-he / they
 
 </td>
 </tr>
@@ -54,7 +53,7 @@ he / they
 
 I’m a backend-focused engineer passionate about designing systems that are **fast, resilient, and production-ready**.
 
--  Building **Go microservices**, REST APIs, and event-driven backends
+-  Building **Go microservices**, APIs, and event-driven backends
 -  Designing cloud-native architecture on **AWS** (Certified)
 -  Managing complex relational data, ACID transactions, and scaling PostgreSQL / Supabase
 -  Strong focus on system reliability, performance, and developer experience
@@ -103,7 +102,7 @@ I’m a backend-focused engineer passionate about designing systems that are **f
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gorilla Mux](https://img.shields.io/badge/Gorilla%20Mux-2C2D72?style=for-the-badge)
 ![GORM](https://img.shields.io/badge/GORM-1F425F?style=for-the-badge&logo=go&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -111,18 +110,16 @@ I’m a backend-focused engineer passionate about designing systems that are **f
 ### Cloud, Databases & Infra
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 

@@ -123,18 +123,14 @@ I’m a backend-focused engineer passionate about designing systems that are **f
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
-
-## ⊞ GitHub Analytics
-
-<div align="center">
+<!-- <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Swatantra-66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=Swatantra-66&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swatantra-66&theme=react-dark&hide_border=true" alt="activity graph" />
-</div>
+</div> -->
 
 ---
 

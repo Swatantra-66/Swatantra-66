@@ -47,7 +47,7 @@ I am a **Backend & Distributed Systems Engineer** focused on building high-throu
 
 ## ✦ Featured Projects
 
-### ⬢ [AEGIS IAM](https://github.com/Swatantra-66/aegis.swatantracodes.in)
+### ⬢ [AEGIS IAM](https://aegis.swatantracodes.in)
 *Production-grade, zero-trust Identity & Access Management infrastructure.*
 
 **Overview:** Engineered an enterprise-grade IAM system with JWT Bearer authentication, family-based Refresh Token Rotation (RTR), and granular RBAC. Hardened with RFC 6238 TOTP Multi-Factor Authentication, Argon2id password hashing, distributed Redis rate-limiting (sliding window), and tamper-evident SHA-256 hash-chained PostgreSQL audit logging.

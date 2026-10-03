@@ -73,6 +73,20 @@ I am a **Backend & Distributed Systems Engineer** focused on building high-throu
 
 ---
 
+## ✎ Blog
+
+### ⬢ [Designing a Rate Limiter That Survives Production: Architecture, Redis, Race Conditions, and Code](https://medium.com/@maverickswatantra/designing-a-rate-limiter-that-survives-production-architecture-redis-race-conditions-and-code-c0f63d958175)
+*A deep dive into building a production-grade rate limiter, from architecture to working code.*
+
+Covers why a limiter needs two caches, how Redis and Lua eliminate race conditions, four algorithms (Fixed Window, Sliding Window Log, Sliding Window Counter, Token Bucket), standard rate limit headers with an Axios retry interceptor, and production gotchas like IP spoofing and multi-region latency.
+
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maverickswatantra)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![System Design](https://img.shields.io/badge/System_Design-2F6FDB?style=for-the-badge)
+
+---
+
 ## ◈ Current Focus
 
 - **Scalable System Design:** Architecting high-throughput, highly available (HA) distributed backends designed for horizontal scale and fault tolerance.

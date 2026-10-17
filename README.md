@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/swatantraar1see)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827)](https://swatantracodes.in)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:maverickswatantra@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Swatantra-66&style=for-the-badge&color=22c55e&labelColor=1f2937)
 
 </div>
 
